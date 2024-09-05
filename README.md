@@ -1,8 +1,7 @@
 ## Software Dev
 
 - 👋 Hi, I’m Borboom Thilosurin
-- 👀 I’m interested in __Functional__
-- 🌱 I’m currently learning programming
-- 📫 How to reach me ...
+- 👀 I’m interested in __FunctionalProgramming__
+- 🌱 I’m currently learning __Nothing__
 
 ### Surin, Thailand
